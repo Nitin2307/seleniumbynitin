@@ -1,0 +1,12 @@
+from Page_object.frontend_reg import Frontend
+frontend = Frontend()
+frontend.Name()
+frontend.Email()
+frontend.Mobile()
+frontend.University()
+frontend.Course()
+frontend.Specialization()
+frontend.state()
+frontend.City()
+frontend.agree()
+frontend.regbtn()
